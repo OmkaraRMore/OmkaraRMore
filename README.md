@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmkaraRMore
 - 👀 I’m interested in artificial intelligence and Machine Learning.
-- 🌱 I’m currently Completed a PG diplom in Artificial Intelligence From CDAC NOIDA.
+- 🌱 I’m currently Completed a PG diploma in Artificial Intelligence From CDAC NOIDA.
 - 💞️ I’m looking to collaborate in some beginning projects where i can learn new things and implement my knowledge in it..
 - 📫 How to reach me: heres mine email id omkarrmore123@gmail.com
 
