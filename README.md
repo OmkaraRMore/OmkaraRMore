@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @OmkaraRMore
-- 👀 I’m interested in artificial intelligence and Machine Learning.
-- 🌱 I’m currently Completed a PG diploma in Artificial Intelligence From CDAC NOIDA.
-- 💞️ I’m looking to collaborate in some beginning projects where i can learn new things and implement my knowledge in it..
-- 📫 How to reach me: heres mine email id omkarrmore123@gmail.com
+👋 Hi, I'm **Omkar More** — a Machine Learning Engineer passionate about building intelligent systems and solving real-world problems with data and code.
+
+🚀 I have 2 years of experience in backend development including 1 year in ML model development, working with tools like **FastAPI**, **TensorFlow**, **PyTorch**, and **Docker**, deployed on **Azure**.
+
+💡 I'm always exploring cutting-edge areas in **AI**, **GenAI**, and **LLM tooling (LangChain, OpenAI)**. I enjoy collaborating on beginner-to-advanced ML projects, especially those involving real-time inference, computer vision, or NLP.
+
+🎓 PG Diploma in AI & ML – CDAC Noida  
+📬 Reach me at: **omkarrmore123@gmail.com**  
+🔗 Connect on [LinkedIn](https://linkedin.com/in/omkar-more2000)
+
+🌱 Open to collaboration, contributions, and cool ideas — let’s build something great!
+
 
 <!---
 OmkaraRMore/OmkaraRMore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
