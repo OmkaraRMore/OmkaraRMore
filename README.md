@@ -1,6 +1,6 @@
 👋 Hi, I'm **Omkar More** — a Machine Learning Engineer passionate about building intelligent systems and solving real-world problems with data and code.
 
-🚀 I have 2 years of experience in backend development including 1 year in ML model development, working with tools like **FastAPI**, **TensorFlow**, **PyTorch**, and **Docker**, deployed on **Azure**.
+🚀 I have 2.5 years of experience in backend development, working with tools like **FastAPI**, **Django**, **TensorFlow**, **PyTorch**, and **Docker**, deployed on **AWS**.
 
 💡 I'm always exploring cutting-edge areas in **AI**, **GenAI**, and **LLM tooling (LangChain, OpenAI)**. I enjoy collaborating on beginner-to-advanced ML projects, especially those involving real-time inference, computer vision, or NLP.
 
