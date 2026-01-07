@@ -5,7 +5,7 @@
 💡 I'm always exploring cutting-edge areas in **AI**, **GenAI**, and **LLM tooling (LangChain, OpenAI)**. I enjoy collaborating on beginner-to-advanced ML projects, especially those involving real-time inference, computer vision, or NLP.
 
 🎓 PG Diploma in AI & ML – CDAC Noida  
-📬 Reach me at: **omkarrmore123@gmail.com**  
+📬 Reach me at: **omkaraamore@gmail.com**  
 🔗 Connect on [LinkedIn](https://linkedin.com/in/omkar-more2000)
 
 🌱 Open to collaboration, contributions, and cool ideas — let’s build something great!
